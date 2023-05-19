@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋 my name Radzhab
 
 #### I'm a frontend developer. I have good knowledge of JavaScript, TypeScript, React, Redux, HTML, SCSS, Figma. My passion is to create beautiful modern responsive websites and web applications.
 ---
