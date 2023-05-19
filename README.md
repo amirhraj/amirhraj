@@ -1,7 +1,7 @@
 # Hi there 👋
 
+#### I'm a frontend developer. I have good knowledge of JavaScript, TypeScript, React, Redux, HTML, SCSS, Figma. My passion is to create beautiful modern responsive websites and web applications.
 ---
-
 ### Skills:
 
 <div>
@@ -16,6 +16,8 @@
 </div>
 
 ---
+### Stats:
+<a href="https://github.com/amirhraj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhraj&hide=python&layout=compact&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=202f31&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhraj&show_icons=true&theme=dark)
 
